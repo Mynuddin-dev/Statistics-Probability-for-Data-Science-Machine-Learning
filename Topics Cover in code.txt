@@ -1,0 +1,18 @@
+Topics Cover in Code [Copy Cat from CodeBasics]
+
+
+1.Logarithm ,why need!
+2.
+	Normal Distribution
+	Zscore
+	Outlier
+	Outlier remove
+	Standard Deviation
+
+3.
+	Mean 
+	Median 
+	Percentile 
+	Quantile 
+	fill Na value using mean , median.
+
