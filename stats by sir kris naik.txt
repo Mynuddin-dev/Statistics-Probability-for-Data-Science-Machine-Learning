@@ -42,7 +42,7 @@ Intermediate Stats
     (T-test,Chi square test, p values)
 
 Advanced Stats
--------------------------------------
+------------------------------------
 21. Q-Q plot
 22. Chebyshev’s inequality
 23. Discrete And Continuous Distribution
@@ -52,7 +52,3 @@ Advanced Stats
 27. Box Cox Tranform
 28. Poisson Disstribution
 29. Application Of Non Gaussian Distribution
-
-
-
-
