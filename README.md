@@ -2,7 +2,7 @@
 
 - [Probability and Statistics | MathIsFun | Recommended](https://www.mathsisfun.com/data/index.html#stats)
 - [Statistics Fundamentals | StatQuest | Recommended](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
-- [Statistics for Machine learning | Krish Naik | Recommended](https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
+- [Statistics for Machine learning | *** Krish Naik *** | Recommended](https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
 - [Mathematics, statistics for data science and machine learning in Hindi | codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l)
 - [Statistics for Data Science & Machine Learning | Derek Banas](https://www.youtube.com/watch?v=tcusIOfI_GM&t=1413s)
       <details>
