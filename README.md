@@ -95,3 +95,57 @@
                 -	1:26:25​ Hypothesis Testing\
                 -	1:30:25​ Inferential Statistics Demo           
         </details>
+ 
+ 
+### What you should learn in statistics as a Data Scientist!!!?
+
+Basics Stats
+--------------------------------
+-   Introduction to Basic Terms
+-   Variables
+-   Random Variables
+-   Population,Sample,Population Mean,
+-   Sample Mean
+-   Population Distribution, Sample Distribution and Sampling Distribution
+-   Mean, Median ,Mode ,Range
+-   Measure Of Dispersion
+-   Variance
+-   Standard Deviation
+-   Gaussian/Normal Distribution ***  
+
+Intermediate Stats
+--------------------------------------
+
+-   Standard Normal Distribution ***
+-   Z score ***
+-   Probability Density Function ***
+-   Cumulative distribution function
+-   Hypothesis Testing ***
+-   Many different plotting graphs
+-   Kernel Density Estimation
+-   Central Limit Theorem ***
+-   Skewness of Data 
+-   Covariance *** 
+-   Pearson Correlation Coefficient *** 
+-   Spearman Rank Correlation Coefficient *** 
+-   Importance of Correlation *** 
+-   Hypothesis Testing *** 
+-   Null Hypothesis *** 
+-   Alternative Hypothesis *** 
+-   Understanding Hypothesis testing (T-test,Chi square test, p values)***
+
+Advanced Stats
+-------------------------------------
+-   Q-Q plot
+-   Chebyshev’s inequality
+-   Discrete And Continuous Distribution
+-   Bernoulli And Binomial Distribution
+-   Log Normal Distribution ***
+-   Power Law Distribution
+-   Box Cox Tranform
+-   Poisson Disstribution
+-   Application Of Non Gaussian Distribution ***
+
+### And Probability
+
+
