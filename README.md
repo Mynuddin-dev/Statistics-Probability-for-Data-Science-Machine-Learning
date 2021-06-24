@@ -133,6 +133,7 @@ Intermediate Stats
 -   Null Hypothesis *** 
 -   Alternative Hypothesis *** 
 -   Understanding Hypothesis testing (T-test,Chi square test, p values)***
+-   [R-Squared vs. Adjusted R-Squared: What's the Difference](https://www.analyticsvidhya.com/blog/2020/07/difference-between-r-squared-and-adjusted-r-squared/)
 
 Advanced Stats
 -------------------------------------
