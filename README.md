@@ -130,6 +130,8 @@ Intermediate Stats
 -   Spearman Rank Correlation Coefficient *** 
 -   Importance of Correlation *** 
 -   Hypothesis Testing *** 
+      - [Chi-Square Test for Independence | Highly Recommended](https://www.youtube.com/watch?v=LE3AIyY_cn8)
+      - [Chi-Square Test for Goodness of Fit | Highly Recommended](https://www.youtube.com/watch?v=b3o_hjWKgQw)
 -   Null Hypothesis *** 
 -   Alternative Hypothesis *** 
 -   Understanding Hypothesis testing (T-test,Chi square test, p values)***
